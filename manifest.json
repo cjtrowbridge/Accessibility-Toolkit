@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "12ft.io Prepend Extension",
+  "version": "1.0",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "http://*/",
+    "https://*/"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
