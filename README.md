@@ -1,7 +1,3 @@
-Here’s a `README.md` file for the **Accessibility-Toolkit** repo:
-
----
-
 # Accessibility-Toolkit
 
 **Accessibility-Toolkit** is a Chrome extension designed to enhance web accessibility on specific news websites, making content more accessible for everyone. The extension automatically prepends `12ft.io/` to URLs from a list of specified domains, allowing users to easily access content.
